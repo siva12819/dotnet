@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/rmkvit/Desktop/Angular/demormkv/Demo.API/demoRMKV/demoRMKV.csproj": {}
+  },
+  "projects": {
+    "/home/rmkvit/Desktop/Angular/demormkv/Demo.API/demoRMKV/demoRMKV.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/rmkvit/Desktop/Angular/demormkv/Demo.API/demoRMKV/demoRMKV.csproj",
+        "projectName": "demoRMKV",
+        "projectPath": "/home/rmkvit/Desktop/Angular/demormkv/Demo.API/demoRMKV/demoRMKV.csproj",
+        "packagesPath": "/home/rmkvit/.nuget/packages/",
+        "outputPath": "/home/rmkvit/Desktop/Angular/demormkv/Demo.API/demoRMKV/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/rmkvit/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.112/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+/home/rmkvit/Desktop/Angular/demormkv/Demo.API/demoRMKV/output/demoRMKV
+/home/rmkvit/Desktop/Angular/demormkv/Demo.API/demoRMKV/output/appsettings.Development.json
+/home/rmkvit/Desktop/Angular/demormkv/Demo.API/demoRMKV/output/appsettings.json
+/home/rmkvit/Desktop/Angular/demormkv/Demo.API/demoRMKV/output/demoRMKV.dll
+/home/rmkvit/Desktop/Angular/demormkv/Demo.API/demoRMKV/output/demoRMKV.deps.json
+/home/rmkvit/Desktop/Angular/demormkv/Demo.API/demoRMKV/output/demoRMKV.runtimeconfig.json
+/home/rmkvit/Desktop/Angular/demormkv/Demo.API/demoRMKV/output/demoRMKV.pdb
+/home/rmkvit/Desktop/Angular/demormkv/Demo.API/demoRMKV/output/Microsoft.OpenApi.dll
+/home/rmkvit/Desktop/Angular/demormkv/Demo.API/demoRMKV/output/Swashbuckle.AspNetCore.Swagger.dll
+/home/rmkvit/Desktop/Angular/demormkv/Demo.API/demoRMKV/output/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/rmkvit/Desktop/Angular/demormkv/Demo.API/demoRMKV/output/Swashbuckle.AspNetCore.SwaggerUI.dll

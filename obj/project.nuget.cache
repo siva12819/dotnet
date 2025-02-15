@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "fBt8s9n79Gyx8k9mqoxs7Bw4lcWWyRu5UBsxW1WkAcDmlk9vO+Pc1rKsTFM0IV1eedS9N/ZqlaU2DKMvM4oS6w==",
+  "success": true,
+  "projectFilePath": "/home/rmkvit/Desktop/Angular/demormkv/Demo.API/demoRMKV/demoRMKV.csproj",
+  "expectedPackageFiles": [
+    "/home/rmkvit/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/rmkvit/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/rmkvit/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/home/rmkvit/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/home/rmkvit/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/home/rmkvit/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "/home/rmkvit/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.36/microsoft.netcore.app.host.linux-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

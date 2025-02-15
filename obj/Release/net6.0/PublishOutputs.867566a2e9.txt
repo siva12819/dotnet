@@ -1,0 +1,11 @@
+/home/rmkvit/Desktop/Angular/demormkv/Demo.API/demoRMKV/bin/Release/net6.0/publish/demoRMKV
+/home/rmkvit/Desktop/Angular/demormkv/Demo.API/demoRMKV/bin/Release/net6.0/publish/appsettings.Development.json
+/home/rmkvit/Desktop/Angular/demormkv/Demo.API/demoRMKV/bin/Release/net6.0/publish/appsettings.json
+/home/rmkvit/Desktop/Angular/demormkv/Demo.API/demoRMKV/bin/Release/net6.0/publish/demoRMKV.dll
+/home/rmkvit/Desktop/Angular/demormkv/Demo.API/demoRMKV/bin/Release/net6.0/publish/demoRMKV.deps.json
+/home/rmkvit/Desktop/Angular/demormkv/Demo.API/demoRMKV/bin/Release/net6.0/publish/demoRMKV.runtimeconfig.json
+/home/rmkvit/Desktop/Angular/demormkv/Demo.API/demoRMKV/bin/Release/net6.0/publish/demoRMKV.pdb
+/home/rmkvit/Desktop/Angular/demormkv/Demo.API/demoRMKV/bin/Release/net6.0/publish/Microsoft.OpenApi.dll
+/home/rmkvit/Desktop/Angular/demormkv/Demo.API/demoRMKV/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/home/rmkvit/Desktop/Angular/demormkv/Demo.API/demoRMKV/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/rmkvit/Desktop/Angular/demormkv/Demo.API/demoRMKV/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
